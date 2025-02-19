@@ -31,15 +31,5 @@ pip install numpy pytest
 - `test_rossler_attractor.py`: Contains unit tests for validating the implementation.
 - `README.md`: This documentation file.
 
-## Git Commands for Deployment
-The repository is configured to be pushed to GitHub. To set it up, run:
-```bash
-git remote add origin https://github.com/dantebarross/rossler-attractor.git
-git branch -M main
-git add .
-git commit -m "Organize repo and add README"
-git push -u origin main
-```
-
 ## License
 This project is licensed under the MIT License.
